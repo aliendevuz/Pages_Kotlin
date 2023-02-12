@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Social Kotlin</string>
+    <string name="open">Open</string>
+    <string name="contact_name">Contact name</string>
+    <string name="contact_phone">Contact phone</string>
+    <string name="user_name">User name</string>
+    <string name="user_age">User age</string>
+    <string name="user_id">User id</string>
+    <string name="todo">TODO</string>
+    <string name="post_header">Post header</string>
+    <string name="post_text">Post text</string>
+</resources>
